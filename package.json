@@ -1,0 +1,16 @@
+{
+  "name": "kdag-backend",
+  "version": "1.0.0",
+  "description": "the backend system of the kdag digest",
+  "license": "ISC",
+  "author": "Yash Bothra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  }
+}
